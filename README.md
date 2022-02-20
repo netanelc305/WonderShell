@@ -1,6 +1,6 @@
 # WonderShell -  CVE
 
-POC example to exploit [Wondershare Dr.Fone][https://drfone.wondershare.com/] .
+POC example to exploit Wondershare Dr.Fone[https://drfone.wondershare.com/] .
 
 ## Discovered by
 Netanel Cohen, and Tomer Peled a Security Researchers from BugSec.
