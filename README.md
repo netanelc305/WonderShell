@@ -30,5 +30,8 @@ nc -lvnp 1337
 
 
 ## Publications
+https://medium.com/@tomerp_77017/wondershell-a82372914f26
+
+
 
 
