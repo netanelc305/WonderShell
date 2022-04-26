@@ -7,7 +7,7 @@ Netanel Cohen and Tomer Peled a Security Researchers from BugSec.
 ## Description
 POC example to exploit [Wondershare Dr.Fone](https://drfone.wondershare.com/) .\
 Dr.Fone is a phone toolkit develop by wondershare , and vulnerable to RCE.\
-As unauthenticated user we manage to execute remote code as SYSTEM user.
+Only with network access we manage to execute remote code as SYSTEM user.
 
 Vulnerable services:
 >InstallAssistService.exe\
