@@ -1,5 +1,6 @@
 # WonderShell
-# CVE - 2021-44595 & CVE - 2021-44596
+# CVE - 2021-44595
+# CVE - 2021-44596
 
 ## Discovered by
 Netanel Cohen and Tomer Peled a Security Researchers from BugSec.
