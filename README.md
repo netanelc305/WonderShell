@@ -1,4 +1,4 @@
-# WonderShell - CVE - 2021-4459 | CVE - 2021-44596
+# WonderShell - CVE - 2021-44595 | CVE - 2021-44596
 
 
 ## Discovered by
